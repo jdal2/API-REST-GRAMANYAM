@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-gramanyam",
+  "version": "1.0.0",
+  "description": "API-rest rest & Users with Auth",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fparrar/API-REST-GRAMANYAM.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fparrar/API-REST-GRAMANYAM/issues"
+  },
+  "homepage": "https://github.com/fparrar/API-REST-GRAMANYAM#readme"
+}
